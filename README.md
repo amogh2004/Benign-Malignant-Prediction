@@ -1,5 +1,4 @@
 # Benign-Malignant Prediction
-Predict whether a Mammogram Mass is Benign or Malignant.</br></br>
 
 ## Description
 A lot of unnecessary anguish and surgery arises from false positives arising from mammogram results. If we can build a better way to interpret them through supervised machine learning, it could improve a lot of lives.
